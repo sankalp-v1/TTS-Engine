@@ -1,8 +1,12 @@
 # TTS-Engine 🗣️✨
 
-A clean, multi-provider Text-to-Speech engine built in Python. Your one-stop-shop for high-quality, free voice generation.
+
+<a href="https://ibb.co/Lzwvn7Zs"><img src="https://i.ibb.co/xSv3JT7r/20250824-133746-0000.png" alt="TTS-Engine Logo" width="40" height="40"></a>
+
+---
 
 [![A neon red soundwave on a black background](https://i.ibb.co/mrLdQh45/20250824-135757-0000.png)](https://ibb.co/p6tNC4j)
+
 
 ---
 ## What is this? 🤔
@@ -29,11 +33,12 @@ On your local machine or in your go-to cloud dev environment (like Codespaces), 
 
 <details>
 <summary>Click to reveal the code</summary>
-<pre><code>git clone https://github.com/sankalp-v1/TTS-Engine.git]
+<pre><code>git clone [YOUR_REPO_URL_HERE]
 cd tts-engine
 </code></pre>
 </details>
 
+*(Don't forget to replace `YOUR_REPO_URL_HERE` with the actual URL of your GitHub repo!)*
 
 ### 2\. Drop the Dependencies
 
@@ -121,11 +126,11 @@ Then, in your terminal:
 
 This engine is stacked with different voice options. Just tweak the `PROVIDER_TO_USE` variable in your `main.py` to hear 'em.
 
-* **`deepgram`**: [!](https://source.unsplash.com/random?q=fast) Lightning-fast, crystal-clear, and super professional vibes. Our top pick for serious biz.
-* **`edge_tts`**: [!](https://source.unsplash.com/random?q=diverse+people) The ultimate variety pack with over 1000 voices and accents. You'll find *the one*.
-* **`speechify`**: [!](https://source.unsplash.com/random?q=celebrity+microphone) Wanna hear Snoop Dogg say your grocery list? This is where the fun's at (celebrity voices for the win!).
-* **`tiktok_tts`**: [!](https://logos-world.net/wp-content/uploads/2020/09/TikTok-Logo.png) You know this voice. It's the one that's all over your FYP – surprisingly natural.
-* **`hurling`**: [!](https://logos-world.net/wp-content/uploads/2020/09/hurling.png) This is the one you use when you need a voice that sounds genuinely human.
+* **`deepgram`**: Lightning-fast, crystal-clear, and super professional vibes. Our top pick for serious biz.
+* **`edge_tts`**: The ultimate variety pack with over 1000 voices and accents. You'll find *the one*.
+* **`speechify`**: Wanna hear Snoop Dogg say your grocery list? This is where the fun's at (celebrity voices for the win!).
+* **`tiktok_tts`**: You know this voice. It's the one that's all over your FYP – surprisingly natural.
+* **`hurling`**: This is the one you use when you need a voice that sounds genuinely human. Smooth, natural, and super high-quality.
 
 ---
 
