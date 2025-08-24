@@ -1,9 +1,8 @@
 <p align="center">
   <h1>TTS-Engine 🗣️✨</h1>
-  <img src="https://i.ibb.co/xSv3JT7r/20250824-133746-0000.png" alt="TTS-Engine Logo">
+  <img src="[PASTE_YOUR_NEW_GITHUB_IMAGE_LINK_HERE]" alt="TTS-Engine Logo">
 </p>
 
----
 ---
 ## What is this? 🤔
 
