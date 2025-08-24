@@ -1,6 +1,6 @@
 <p align="center">
   <h1>TTS-Engine 🗣️✨</h1>
-  <img src="[PASTE_YOUR_NEW_GITHUB_IMAGE_LINK_HERE]" alt="TTS-Engine Logo">
+  <img src="https://raw.githubusercontent.com/sankalp-v1/TTS-Engine/refs/heads/main/20250824_133746_0000.png?token=GHSAT0AAAAAADI47OA4R4CFJ252Y6Z2BSYE2FK6PPA" alt="TTS-Engine Logo">
 </p>
 
 ---
