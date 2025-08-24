@@ -141,6 +141,6 @@ Massive respect to the creators of [Jarvis 4.0](https://github.com/SreejanPerson
 
 -----
 
-## License 📄
+## AI's Used In The Making 🤖
 
-MIT
+**Gemini**- https://shorturl.at/NTVi7 (Chat Link)
