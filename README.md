@@ -1,6 +1,6 @@
 <p align="center">
   <h1>TTS-Engine 🗣️✨</h1>
-  <a href="https://ibb.co/Lzwvn7Zs"><img src="https://i.ibb.co/xSv3JT7r/20250824-133746-0000.png" alt="TTS-Engine Logo" width="500"></a>
+  <img src="https://i.ibb.co/xSv3JT7r/20250824-133746-0000.png" alt="TTS-Engine Logo" width="500">
 </p>
 
 ---
