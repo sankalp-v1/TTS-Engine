@@ -1,13 +1,10 @@
-<p align="center">
-  <a href="https://ibb.co/p6tNC4j"><img src="https://i.ibb.co/mrLdQh45/20250824-135757-0000.png" alt="TTS-Engine Banner"></a>
-</p>
-
 # TTS-Engine 🗣️✨
 
 <p align="center">
   <a href="https://ibb.co/Lzwvn7Zs"><img src="https://i.ibb.co/xSv3JT7r/20250824-133746-0000.png" alt="TTS-Engine Logo" width="500"></a>
 </p>
 
+---
 ---
 ## What is this? 🤔
 
