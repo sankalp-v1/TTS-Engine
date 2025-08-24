@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://ibb.co/Lzwvn7Zs"><img src="https://i.ibb.co/xSv3JT7r/20250824-133746-0000.png" alt="TTS-Engine Logo" width="80" height="80"></a>
+  <a href="https://ibb.co/p6tNC4j"><img src="https://i.ibb.co/mrLdQh45/20250824-135757-0000.png" alt="TTS-Engine Banner"></a>
 </p>
 
 # TTS-Engine 🗣️✨
 
 <p align="center">
-  [![A neon red soundwave on a black background](https://i.ibb.co/mrLdQh45/20250824-135757-0000.png)](https://ibb.co/p6tNC4j)
+  <a href="https://ibb.co/Lzwvn7Zs"><img src="https://i.ibb.co/xSv3JT7r/20250824-133746-0000.png" alt="TTS-Engine Logo" width="500"></a>
 </p>
 
 ---
