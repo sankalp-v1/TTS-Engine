@@ -2,7 +2,7 @@
 
 A clean, multi-provider Text-to-Speech engine built in Python. Your one-stop-shop for high-quality, free voice generation.
 
-[!](https://source.unsplash.com/random?q=sound+waves)
+[![A neon red soundwave on a black background](https://i.ibb.co/mrLdQh45/20250824-135757-0000.png)](https://ibb.co/p6tNC4j)
 
 ---
 ## What is this? 🤔
@@ -29,12 +29,11 @@ On your local machine or in your go-to cloud dev environment (like Codespaces), 
 
 <details>
 <summary>Click to reveal the code</summary>
-<pre><code>git clone [YOUR_REPO_URL_HERE]
+<pre><code>git clone https://github.com/sankalp-v1/TTS-Engine.git]
 cd tts-engine
 </code></pre>
 </details>
 
-*(Don't forget to replace `YOUR_REPO_URL_HERE` with the actual URL of your GitHub repo!)*
 
 ### 2\. Drop the Dependencies
 
@@ -75,7 +74,6 @@ async def main():
         "speechify",   # Celebrity voices (Snoop Dogg, etc.)
         "tiktok_tts",  # Viral, natural voice
         "hurling",     # Natural WaveNet voices
-        "eleven_labs", # Premium voices (NEEDS AN API KEY)
     ]
 
     # Step 2: Pick one from the list above and put its name here
@@ -127,16 +125,10 @@ This engine is stacked with different voice options. Just tweak the `PROVIDER_TO
 * **`edge_tts`**: [!](https://source.unsplash.com/random?q=diverse+people) The ultimate variety pack with over 1000 voices and accents. You'll find *the one*.
 * **`speechify`**: [!](https://source.unsplash.com/random?q=celebrity+microphone) Wanna hear Snoop Dogg say your grocery list? This is where the fun's at (celebrity voices for the win!).
 * **`tiktok_tts`**: [!](https://logos-world.net/wp-content/uploads/2020/09/TikTok-Logo.png) You know this voice. It's the one that's all over your FYP – surprisingly natural.
-* **`hurling`**: [!
-
-[Image of a natural landscape]
-](https://source.unsplash.com/random?q=natural+landscape) Smooth, natural-sounding WaveNet voices that are easy on the ears.
-* **`eleven_labs`**: [!
-
-[Image of a futuristic interface]
-](https://source.unsplash.com/random?q=futuristic+interface) Studio-quality, premium voices. Heads up: this one needs an API key if you wanna go beyond the basics.
+* **`hurling`**: [!](https://logos-world.net/wp-content/uploads/2020/09/hurling.png) This is the one you use when you need a voice that sounds genuinely human.
 
 ---
+
 ## Contributing? Bet. 🙌
 
 Got ideas for more free TTS providers to add? Found a bug? Want to make this even cleaner? Pull requests are always welcome. Let's build this together.
