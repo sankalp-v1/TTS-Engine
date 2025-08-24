@@ -1,26 +1,26 @@
+<p align="center">
+  <a href="https://ibb.co/Lzwvn7Zs"><img src="https://i.ibb.co/xSv3JT7r/20250824-133746-0000.png" alt="TTS-Engine Logo" width="80" height="80"></a>
+</p>
+
 # TTS-Engine 🗣️✨
 
-
-<a href="https://ibb.co/Lzwvn7Zs"><img src="https://i.ibb.co/xSv3JT7r/20250824-133746-0000.png" alt="TTS-Engine Logo" width="40" height="40"></a>
-
----
-
-[![A neon red soundwave on a black background](https://i.ibb.co/mrLdQh45/20250824-135757-0000.png)](https://ibb.co/p6tNC4j)
-
+<p align="center">
+  [![A neon red soundwave on a black background](https://i.ibb.co/mrLdQh45/20250824-135757-0000.png)](https://ibb.co/p6tNC4j)
+</p>
 
 ---
 ## What is this? 🤔
 
-Tired of all the good TTS APIs being locked behind a paywall or requiring your credit card info before you can even try 'em? **TTS-Engine** is a simple, plug-and-play toolkit that bundles a bunch of the best *actually free* and reverse-engineered TTS providers into one clean package. No cap.
+Tired of all the good TTS APIs being locked behind a paywall or requiring your credit card info? **TTS-Engine** is a simple, plug-and-play toolkit that bundles a bunch of the best *actually free* and reverse-engineered TTS providers into one clean package. No cap.
 
-This project is basically what happened when we took the голосовые связки (voice components) from the powerful [Jarvis 4.0](https://github.com/SreejanPersonal/Jarvis-4.0) project, gave 'em a major glow-up, and stripped away all the extra baggage. чистота (purity) is the name of the game.
+This project was refactored from the core of the powerful [Jarvis 4.0](https://github.com/SreejanPersonal/Jarvis-4.0) project, stripped down to only the essential, battle-tested voice components. No fluff, just high-quality audio generation.
 
 ---
 ## Key Features 🔥
 
-* ✅ **Multi-Provider:** Effortlessly switch between different voice engines like Deepgram (fast & pro), Speechify (hello, celebrity voices 👋), and TikTok TTS (you know the one 😉) by tweaking just one line of code.
-* 💸 **Fr fr free:** We're all about that zero-cost life. This engine uses providers that don't slap you with API key requirements or sneaky charges for basic use.
-* 🛠️ **Low-Key Useful:** Designed to be a lightweight, reusable piece of tech that you can yeet into any of your future projects without a second thought.
+* ✅ **Multi-Provider:** Effortlessly switch between different voice engines like Deepgram, Speechify, and TikTok TTS by tweaking just one line of code.
+* 💸 **Actually Free:** Built to use providers that don't require API keys or credit cards for their core functionality.
+* 🛠️ **Clean & Simple:** Designed to be a lightweight, reusable module that you can easily drop into any of your future projects.
 
 ---
 ## 🚀 Quick Start - Let's Goooo
@@ -38,11 +38,11 @@ cd tts-engine
 </code></pre>
 </details>
 
-*(Don't forget to replace `YOUR_REPO_URL_HERE` with the actual URL of your GitHub repo!)*
+*(Don't forget to replace `YOUR_REPO_URL_HERE` with the actual URL of your GitHub repo\!)*
 
 ### 2\. Drop the Dependencies
 
-Install all the necessary packages. We kept the `requirements.txt` super lean:
+Install all the necessary packages:
 
 <details>
 <summary>Click to reveal the code</summary>
@@ -52,7 +52,7 @@ Install all the necessary packages. We kept the `requirements.txt` super lean:
 
 ### 3\. Make it Go ⚙️
 
-Create a `main.py` file in your project, paste the code below into it, and run it like it's hot.
+Create a `main.py` file in your project, paste the code below, and run it to generate your first audio file.
 
 <details>
 <summary>Click to reveal the code</summary>
@@ -113,7 +113,7 @@ if __name__ == "__main__":
 </code></pre>
 </details>
 
-Then, in your terminal:
+Then, in your terminal, run the script:
 
 <details>
 <summary>Click to reveal the command</summary>
@@ -124,26 +124,28 @@ Then, in your terminal:
 ---
 ## 🗣️ The Voices (A Lineup)
 
-This engine is stacked with different voice options. Just tweak the `PROVIDER_TO_USE` variable in your `main.py` to hear 'em.
+This engine is stacked with different voice options. Just tweak the `PROVIDER_TO_USE` variable in your `main.py` to hear them.
 
-* **`deepgram`**: Lightning-fast, crystal-clear, and super professional vibes. Our top pick for serious biz.
-* **`edge_tts`**: The ultimate variety pack with over 1000 voices and accents. You'll find *the one*.
-* **`speechify`**: Wanna hear Snoop Dogg say your grocery list? This is where the fun's at (celebrity voices for the win!).
-* **`tiktok_tts`**: You know this voice. It's the one that's all over your FYP – surprisingly natural.
-* **`hurling`**: This is the one you use when you need a voice that sounds genuinely human. Smooth, natural, and super high-quality.
+  * **`deepgram`**: Lightning-fast, crystal-clear, and super professional vibes. Our top pick.
+  * **`edge_tts`**: The ultimate variety pack with over 1000 voices and accents.
+  * **`speechify`**: Celebrity voices for the win\!
+  * **`tiktok_tts`**: The iconic voice from your FYP.
+  * **`hurling`**: Smooth, natural-sounding WaveNet voices.
 
----
+-----
 
 ## Contributing? Bet. 🙌
 
-Got ideas for more free TTS providers to add? Found a bug? Want to make this even cleaner? Pull requests are always welcome. Let's build this together.
+Got ideas for more free TTS providers to add? Found a bug? Pull requests are always welcome.
 
----
+-----
+
 ## Shoutouts 📢
 
-Massive respect to the creators of [Jarvis 4.0](https://github.com/SreejanPersonal/Jarvis-4.0) for laying the groundwork. This project wouldn't exist without their awesome work.
+Massive respect to the creators of [Jarvis 4.0](https://github.com/SreejanPersonal/Jarvis-4.0) for laying the groundwork.
 
----
+-----
+
 ## License 📄
 
 MIT
